@@ -1,7 +1,7 @@
 /*
 Name : Sarojani Mutnale
 Date  : 29/12/2025
-Project Name: Address Book Management Systemclea
+Project Name: Address Book Management System
 Input: gcc *.c
 output: ./a.out
 */
